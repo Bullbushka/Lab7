@@ -1,0 +1,10 @@
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\bin\Debug\6AsyncMethods.exe.config
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\bin\Debug\6AsyncMethods.exe
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\bin\Debug\6AsyncMethods.pdb
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\obj\Debug\AsyncMethods.csprojAssemblyReference.cache
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\obj\Debug\_6AsyncMethods.Form1.resources
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\obj\Debug\_6AsyncMethods.Properties.Resources.resources
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\obj\Debug\AsyncMethods.csproj.GenerateResource.cache
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\obj\Debug\AsyncMethods.csproj.CoreCompileInputs.cache
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\obj\Debug\6AsyncMethods.exe
+C:\Users\Panda\Downloads\Lab7\AsyncMethods\obj\Debug\6AsyncMethods.pdb

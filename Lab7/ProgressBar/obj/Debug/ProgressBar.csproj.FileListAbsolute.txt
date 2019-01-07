@@ -1,0 +1,9 @@
+C:\Users\Panda\Downloads\Lab7\ProgressBar\bin\Debug\6ProgressBar.exe.config
+C:\Users\Panda\Downloads\Lab7\ProgressBar\bin\Debug\6ProgressBar.exe
+C:\Users\Panda\Downloads\Lab7\ProgressBar\bin\Debug\6ProgressBar.pdb
+C:\Users\Panda\Downloads\Lab7\ProgressBar\obj\Debug\_6ProgressBar.Form1.resources
+C:\Users\Panda\Downloads\Lab7\ProgressBar\obj\Debug\_6ProgressBar.Properties.Resources.resources
+C:\Users\Panda\Downloads\Lab7\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\Panda\Downloads\Lab7\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Panda\Downloads\Lab7\ProgressBar\obj\Debug\6ProgressBar.exe
+C:\Users\Panda\Downloads\Lab7\ProgressBar\obj\Debug\6ProgressBar.pdb
